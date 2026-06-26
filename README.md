@@ -3,7 +3,7 @@
 > **Watch React's core hooks fire in real time.** Click around and a live timeline shows you exactly which renders happen, when `useEffect` runs and cleans up, when `useMemo` recomputes vs. caches, and how `useRef` mutates *without* a render. Every line is a real event from a real component.
 
 <p align="center">
-  <a href="https://hooks-lab.vercel.app/"><b>▶ Live demo</b></a> &nbsp;·&nbsp;
+  <a href="https://hooks-lab-seven.vercel.app/"><b>▶ Live demo</b></a> &nbsp;·&nbsp;
   <a href="#what-it-teaches">What it teaches</a> &nbsp;·&nbsp;
   <a href="#run-it-locally">Run locally</a>
 </p>
